@@ -1,4 +1,4 @@
-# COSC363-Ray-Tracer
+# C++ Ray Tracer (OpenGL)
 
 Build commands used for RayTracer.cpp are:
 
